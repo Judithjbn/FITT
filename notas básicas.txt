@@ -1,0 +1,1 @@
+- En routes/notionRoutes.js para crear controladores y rutas para bonos y visitas 

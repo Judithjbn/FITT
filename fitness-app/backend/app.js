@@ -1,7 +1,7 @@
 const express = require('express');
 const cors = require('cors');
-const notionRoutes = require('./routes/notionRoutes'); // Importar rutas
-require('dotenv').config(); // Cargar las variables de entorno
+const notionRoutes = require('./routes/notionRoutes'); //importar rutas
+require('dotenv').config(); //cargar las variables de entorno
 
 const app = express();
 
